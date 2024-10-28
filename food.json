@@ -47,6 +47,7 @@
     "storageKey": "ragout_cart",
     "isCustomDelivery": false,
     "deliveryPrice": null,
+    "storeOpenDays": [1,2,3,4,5,6],
     "catsWithProductSkus": [
       {
         "name": "Напитки",
@@ -161,6 +162,7 @@
     "storageKey": "food_cart",
     "isCustomDelivery": true,
     "deliveryPrice": 1000,
+    "storeOpenDays": [1,2,3,4,5],
     "catsWithProductSkus": [
       {
         "name": "Паста",
