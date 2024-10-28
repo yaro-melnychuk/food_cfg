@@ -2,7 +2,7 @@
   {
     "id": "food_ragout",
     "name": "ragout",
-    "workingHours": "8:00 AM - 8:00 PM",
+    "workingHours": "Часы работы: c 9 до 17 пн-сб",
     "deliveryHours": null,
     "bannerImg": "assets/images/ragout.png",
     "headerImg": "assets/images/ragout_header_background.png",
