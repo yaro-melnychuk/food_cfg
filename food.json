@@ -1,0 +1,247 @@
+[
+  {
+    "id": "food_ragout",
+    "name": "ragout",
+    "workingHours": "8:00 AM - 8:00 PM",
+    "deliveryHours": null,
+    "bannerImg": "assets/images/ragout.png",
+    "headerImg": "assets/images/ragout_header_background.png",
+    "logoImg": "assets/images/ragout_logo.png",
+    "tags": [
+      "Без сахара",
+      "Без глютена",
+      "Здоровая еда",
+      "Без лактозы"
+    ],
+    "stories": [
+      {
+        "image": "assets/images/ragout_story_waffles_yoggie.png",
+        "text": "Без содержания сахара, глютена и лактозы",
+        "backgroundColor": 4280448456,
+        "textColor": 4294967295,
+        "imageBottomPosition": -35,
+        "imageLeftPosition": -30
+      },
+      {
+        "image": "assets/images/ragout_story_yogurt.png",
+        "text": "Для прикорма малышей",
+        "backgroundColor": 4289778163,
+        "textColor": 4278190080,
+        "imageBottomPosition": 0,
+        "imageLeftPosition": 0
+      },
+      {
+        "image": "assets/images/ragout_story_cookie.png",
+        "text": "Питание с высоким содержанием белка",
+        "backgroundColor": 4289555967,
+        "textColor": 4278190080,
+        "imageBottomPosition": -30,
+        "imageLeftPosition": -35
+      }
+    ],
+    "headerBgColor": 4294440951,
+    "priceRangePercent": 0.66,
+    "cfgProudctSku": "118000",
+    "isCutleryAvailable": false,
+    "timeWhenStoreWillBeOpened": "9:00",
+    "storageKey": "ragout_cart",
+    "isCustomDelivery": false,
+    "deliveryPrice": null,
+    "catsWithProductSkus": [
+      {
+        "name": "Напитки",
+        "productSkus": [
+          "117465"
+        ]
+      },
+      {
+        "name": "Заморозка",
+        "productSkus": [
+          "117454",
+          "117452",
+          "117453",
+          "117442",
+          "117467",
+          "117448",
+          "117470",
+          "117471",
+          "117480",
+          "117443",
+          "117472",
+          "117473"
+        ]
+      },
+      {
+        "name": "Десерты",
+        "productSkus": [
+          "117450",
+          "117456",
+          "117460",
+          "117445",
+          "117469",
+          "117468",
+          "117462",
+          "117461",
+          "117457",
+          "117464",
+          "117463",
+          "117459",
+          "117458",
+          "117446",
+          "117444"
+        ]
+      },
+      {
+        "name": "Закуски",
+        "productSkus": [
+          "117441",
+          "117449",
+          "117478",
+          "117479",
+          "117474",
+          "117475",
+          "117476",
+          "117477",
+          "117447",
+          "117451"
+        ]
+      },
+      {
+        "name": "Основное",
+        "productSkus": [
+          "117466"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "food_test1",
+    "name": "Tasty",
+    "workingHours": "Часы работы: с 9 до 17, пн-сб",
+    "deliveryHours": "Доставка: Завтра, 14:00-18:00",
+    "bannerImg": "assets/images/tasty.png",
+    "headerImg": "assets/images/tasty_header_background.png",
+    "logoImg": "assets/images/tasty_logo.png",
+    "tags": [
+      "Без сахара",
+      "Без глютена",
+      "Здоровая еда"
+    ],
+    "stories": [
+      {
+        "image": "assets/images/tasty_story_pilaf.png",
+        "text": "Качественные и натуральные ингредиенты",
+        "backgroundColor": 1727906143,
+        "textColor": 4278190080,
+        "imageBottomPosition": 0,
+        "imageLeftPosition": 0
+      },
+      {
+        "image": "assets/images/tasty_story_cheesecake.png",
+        "text": "Без содержания сахара",
+        "backgroundColor": 4294820191,
+        "textColor": 4278190080,
+        "imageBottomPosition": 0,
+        "imageLeftPosition": 0
+      },
+      {
+        "image": "assets/images/tasty_story_pasta.png",
+        "text": "Минимум соли и масла",
+        "backgroundColor": 4294950050,
+        "textColor": 4278190080,
+        "imageBottomPosition": -85,
+        "imageLeftPosition": -85
+      }
+    ],
+    "headerBgColor": 4294967295,
+    "priceRangePercent": 0.33,
+    "cfgProudctSku": "117000",
+    "isCutleryAvailable": true,
+    "timeWhenStoreWillBeOpened": "10:00",
+    "storageKey": "food_cart",
+    "isCustomDelivery": true,
+    "deliveryPrice": 1000,
+    "catsWithProductSkus": [
+      {
+        "name": "Паста",
+        "productSkus": [
+          "116864",
+          "116869",
+          "116963"
+        ]
+      },
+      {
+        "name": "Курица",
+        "productSkus": [
+          "116866",
+          "116867",
+          "116871",
+          "116873",
+          "116875",
+          "116970",
+          "116972",
+          "116974",
+          "116975"
+        ]
+      },
+      {
+        "name": "Бургеры",
+        "productSkus": [
+          "116965",
+          "116962",
+          "116976"
+        ]
+      },
+      {
+        "name": "Cалаты",
+        "productSkus": [
+          "116961",
+          "116969"
+        ]
+      },
+      {
+        "name": "Супы",
+        "productSkus": [
+          "116860"
+        ]
+      },
+      {
+        "name": "Плов",
+        "productSkus": [
+          "116868"
+        ]
+      },
+      {
+        "name": "Картофель",
+        "productSkus": [
+          "116964",
+          "116966"
+        ]
+      },
+      {
+        "name": "Сырники и блинчики",
+        "productSkus": [
+          "116856",
+          "116857",
+          "116858",
+          "116859"
+        ]
+      },
+      {
+        "name": "Каши",
+        "productSkus": [
+          "116967",
+          "116968"
+        ]
+      },
+      {
+        "name": "Десерты",
+        "productSkus": [
+          "116861",
+          "116862",
+          "116863"
+        ]
+      }
+    ]
+  }
+]
