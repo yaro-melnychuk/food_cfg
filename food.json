@@ -48,6 +48,7 @@
       "is_custom_delivery": false,
       "delivery_price": null,
       "store_open_days": [1,2,3,4,5,6],
+      "is_order_for_next_day": false,
       "cats_with_product_skus": [
         {
           "name": "Напитки",
@@ -163,6 +164,7 @@
       "is_custom_delivery": true,
       "delivery_price": 1000,
       "store_open_days": [1,2,3,4,5],
+      "is_order_for_next_day": true,
       "cats_with_product_skus": [
         {
           "name": "Паста",
